@@ -8,11 +8,8 @@ This repository contains Python scripts designed for the recovery of a forgotten
 .
 
 Prerequisites
-You must have Python installed on your system. Install the required library via pip:
+You must have Python installed on your system. Install the required library via pip: pip pip install pyautogui
 
-Bash
-
-pip pip install pyautogui
 Step 1: Run the Coordinate Finder
 Before running the main script, you must define the location of the pattern lock elements on your screen.
 
